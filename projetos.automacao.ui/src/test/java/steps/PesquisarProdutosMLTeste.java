@@ -42,9 +42,7 @@ public class PesquisarProdutosMLTeste extends DriversFactory {
 		metodos.enter(el.enter);
 		metodos.clicar(el.pcGamer);
 		metodos.scroll(0, 200);
-		
-		
-		
+				
 	}
 	
 	@Then("validar o teste")
